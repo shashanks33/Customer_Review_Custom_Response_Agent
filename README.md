@@ -10,7 +10,11 @@ A Streamlit app that uses LangChain + OpenAI (GPT-4o-mini) to automatically draf
 
 ## Demo
 
-![Screenshot of the app](./screenshot.png)
+![Screenshot of the app](./views/screenshot.png)
+
+## Langchain Workflow Diagram
+
+![Screenshot of the workflow](./views/Workflow_Diagram.jpg)
 
 ## Installation
 
