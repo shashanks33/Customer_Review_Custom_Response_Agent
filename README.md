@@ -38,7 +38,7 @@ A Streamlit app that uses LangChain + OpenAI (GPT-4o-mini) to automatically draf
 4. **Run** the app
 
    ```bash
-   streamlit run app.py
+   streamlit run ResponseAgent.py
    ```
 
 ## Usage
