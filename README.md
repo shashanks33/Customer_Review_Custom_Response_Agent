@@ -16,8 +16,8 @@ A Streamlit app that uses LangChain + OpenAI (GPT-4o-mini) to automatically draf
 
 1. **Clone** this repo  
    ```bash
-   git clone https://github.com/shashanks33/customer-review-reply-agent.git
-   cd customer-review-reply
+   git clone https://github.com/shashanks33/Customer_Review_Custom_Response_Agent.git
+   cd Customer_Review_Custom_Response_Agent
 ````
 
 2. **Create** a virtual environment & **install** dependencies
